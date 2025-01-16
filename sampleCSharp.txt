@@ -1,0 +1,8 @@
+namespace SampleCSharpCode {
+	public class Program {
+		public static void Main(string[] args) {
+			double i = 10;
+			Console.WriteLine(i);
+		}
+	}
+}
